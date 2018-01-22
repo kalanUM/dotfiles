@@ -42,7 +42,7 @@ export LSCOLORS=exFxBxDxCxegedabagacad
 alias ls='ls -GFh'
 
 ## Use a long listing format ## 
-alias ll='ls -la'
+alias ll='ls -lah'
 
 ## Show hidden files ## 
 alias l.='ls -dG .*'
